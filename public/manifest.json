@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Bear Tab",
+  "author": "Michael Ren",
+  "version": "0.2",
+  "description": "Replace new tab screen with Cal customized information.",
+  "icons": {
+    "128": "logo.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"]
+}
