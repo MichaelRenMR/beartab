@@ -1,3 +1,14 @@
+# bearTab 
+A New Tab extension meant for Cal students. Built using ReactJS for cross browser functinoality. 
+
+## Setup 
+### Chrome 
+* Download the repository.
+* Open chrome://extensions in developer mode, select 'Load unpacked' and select the folder containing the repository. 
+### Firefox 
+* Download the repository. 
+* Open about:addons in developer mode, select 'Install Add-on From File' from the Settings button in the top right corner, navigate to the downloaded repository and select thee manifest.json file. 
+- - - - 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
